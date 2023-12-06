@@ -2,11 +2,11 @@
 
 Welcome to XYZ Cinemas User Guide. Follow this instruction to book your movie ticket!
 
-# Home Page
+## Home Page
 - Movie list: see what movies are playing right now.
 - Carousel part: show which movies are hot right now.
 
-# Booking Tickets
+## Booking Tickets
 1. Click the blue 'Movie list' button in the middle of the webpage.
 2. Click the movie you want to watch on the list.
 3. Click the blue 'Get Tickets' button on the right side of the movie information.
@@ -17,22 +17,22 @@ Welcome to XYZ Cinemas User Guide. Follow this instruction to book your movie ti
 8. Choose a specific seat to click among green color seats.
 9. 
 
-# Movie List
+## Movie List
 - Movie titles: show movie information such as title, title poster, and summary.
   <buttons>
   - Watch Trailer: Link the main movie trailer webpage on YouTube.
   - Get Tickets: Move the 'get tickets' webpage.
 
-# Available future times and dates
+## Available future times and dates
 - Movie information: Title, summary, and title poster.
 - Date available: show the available date option to book a movie.
 - Time available: show the available time option based on date selection.
 
-# Seats selections
+## Seats selections
 - Seat metaphor to show available seats
 - The quantities of 
-# Snacks and drinks
+## Snacks and drinks
 
-# Review and Payment
+## Review and Payment
 
-# Print tickets Y/N
+## Print tickets Y/N
